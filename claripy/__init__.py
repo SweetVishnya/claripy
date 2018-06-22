@@ -92,3 +92,4 @@ from .frontend import Frontend as _Frontend
 from . import frontends
 from . import frontend_mixins
 from .solvers import *
+from .inversion import invert
